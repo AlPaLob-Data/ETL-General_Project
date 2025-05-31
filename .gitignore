@@ -1,1 +1,6 @@
-__pycharm__,
+__pycharm__/
+.gitignore
+*.pyc
+*.log
+
+
